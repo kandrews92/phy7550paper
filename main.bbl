@@ -1,3 +1,26 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Colinge2002}
+J.P. {Colinge} and C.A. {Colinge}.
+\newblock {\em Physics of Semiconductor Devices}.
+\newblock Kluwer Academic Publishers, New York City, NY, 1 edition, 2002.
+
+\bibitem{Ilatikhameneh2016}
+H.~{Ilatikhameneh}, T.~{Ameen}, F.~{Chen}, H.~{Sahasrabudhe}, G.~{Klimeck}, and
+  R.~{Rahman}.
+\newblock {Impact of Dimensionality on PN Junctions}.
+\newblock {\em ArXiv e-prints}, November 2016.
+
+\bibitem{Ilatikhameneh2017}
+H.~{Ilatikhameneh}, T.~{Ameen}, F.~{Chen}, H.~{Sahasrabudhe}, G.~{Klimeck}, and
+  R.~{Rahman}.
+\newblock {Dramatic Impact of Dimensionality on the Electrostatics of PN
+  Junctions}.
+\newblock {\em ArXiv e-prints}, April 2017.
+
+\bibitem{Sze}
+S.M. Sze and K.K. Ng.
+\newblock {\em Physics of Semiconductor Devices}.
+\newblock John Wiley \& Sons., 2006.
 
 \end{thebibliography}
