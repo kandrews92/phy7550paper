@@ -1,13 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  3 DEC 2017 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  12 DEC 2017 17:51
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Kraig Andrews/Documents/wayne/courses/2017fall/phy7550/termpaper/ma
-in.tex"
-
-(c:/Users/Kraig Andrews/Documents/wayne/courses/2017fall/phy7550/termpaper/main
-.tex
+**main.tex
+(./main.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (c:/texlive/2014/texmf-dist/tex/latex/revtex/revtex4-1.cls
@@ -2115,8 +2111,8 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 65.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count188
- (./abstract.tex)
-(./sec001.tex) (./sec002.tex
+ (./sec001.tex)
+(./sec002.tex
 
 Package caption Warning: \label without proper \caption on input line 6.
 See the caption package documentation for explanation.
@@ -2163,75 +2159,134 @@ File: figs/unbias_pn_junction_depletion_region.png Graphic file (type png)
 
 <use figs/unbias_pn_junction_depletion_region.png>
 Package pdftex.def Info: figs/unbias_pn_junction_depletion_region.png used on i
-nput line 36.
+nput line 39.
 (pdftex.def)             Requested size: 199.1664pt x 85.36049pt.
  [1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/unbia
 sed_pn_junction_bands.png> <./figs/unbiased_pn_junction_bands_connected.png> <.
-/figs/unbias_pn_junction_depletion_region.png>]) (./sec003.tex
-<figs/bias_pn_junction.png, id=31, 449.0376pt x 159.4758pt>
+/figs/unbias_pn_junction_depletion_region.png>]
+
+Package caption Warning: \label without proper \caption on input line 79.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig05' on page 2 undefined on input line 62.
+
+
+Package caption Warning: \label without proper \caption on input line 99.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig07' on page 2 undefined on input line 69.
+
+<figs/bias_pn_junction.png, id=32, 449.0376pt x 159.4758pt>
 File: figs/bias_pn_junction.png Graphic file (type png)
 
 <use figs/bias_pn_junction.png>
-Package pdftex.def Info: figs/bias_pn_junction.png used on input line 5.
+Package pdftex.def Info: figs/bias_pn_junction.png used on input line 81.
 (pdftex.def)             Requested size: 241.84631pt x 99.58694pt.
 
-<figs/schokley_current_reverse_forward.png, id=32, 405.01312pt x 192.72pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package caption Warning: \label without proper \caption on input line 99.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig07' on page 2 undefined on input line 95.
+
+<figs/schokley_current_reverse_forward.png, id=33, 405.01312pt x 192.72pt>
 File: figs/schokley_current_reverse_forward.png Graphic file (type png)
 
 <use figs/schokley_current_reverse_forward.png>
 Package pdftex.def Info: figs/schokley_current_reverse_forward.png used on inpu
-t line 11.
+t line 101.
 (pdftex.def)             Requested size: 227.62773pt x 113.80966pt.
 
-<figs/high_low_injection.png, id=33, 416.757pt x 180.675pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package caption Warning: \label without proper \caption on input line 116.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig010' on page 2 undefined on input line 112.
+
+
+LaTeX Warning: Reference `fig010' on page 2 undefined on input line 114.
+
+<figs/high_low_injection.png, id=34, 416.757pt x 180.675pt>
 File: figs/high_low_injection.png Graphic file (type png)
 
 <use figs/high_low_injection.png>
-Package pdftex.def Info: figs/high_low_injection.png used on input line 17.
+Package pdftex.def Info: figs/high_low_injection.png used on input line 118.
 (pdftex.def)             Requested size: 227.6209pt x 113.81206pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figs/recomb.png, id=34, 237.88875pt x 203.25937pt>
+<figs/recomb.png, id=35, 237.88875pt x 203.25937pt>
 File: figs/recomb.png Graphic file (type png)
  <use figs/recomb.png>
-Package pdftex.def Info: figs/recomb.png used on input line 23.
+Package pdftex.def Info: figs/recomb.png used on input line 137.
 (pdftex.def)             Requested size: 142.26971pt x 128.04166pt.
-)
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[2 <./figs/bias_pn_junction.png>]
 
-(./sec004.tex <figs/2d_3d.png, id=35, 198.7425pt x 183.68625pt>
+LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Package caption Warning: \label without proper \caption on input line 162.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig08' on page 3 undefined on input line 144.
+
+
+Package caption Warning: \label without proper \caption on input line 156.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:fig09' on page 3 undefined on input line 146.
+
+
+Package natbib Warning: Citation `Ilatikhameneh2016' on page 3 undefined on inp
+ut line 149.
+
+[3 <./figs/schokley_current_reverse_forward.png> <./figs/high_low_injection.png
+> <./figs/recomb.png>]
+
+Package natbib Warning: Citation `Ilatikhameneh2017' on page 4 undefined on inp
+ut line 155.
+
+<figs/2d_3d.png, id=47, 198.7425pt x 183.68625pt>
 File: figs/2d_3d.png Graphic file (type png)
-
-<use figs/2d_3d.png>
-Package pdftex.def Info: figs/2d_3d.png used on input line 5.
+ <use figs/2d_3d.png>
+Package pdftex.def Info: figs/2d_3d.png used on input line 158.
 (pdftex.def)             Requested size: 142.26659pt x 113.81421pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figs/2d_3d_wd_dep.png, id=36, 313.17pt x 160.34906pt>
+<figs/2d_3d_wd_dep.png, id=48, 313.17pt x 160.34906pt>
 File: figs/2d_3d_wd_dep.png Graphic file (type png)
 
 <use figs/2d_3d_wd_dep.png>
-Package pdftex.def Info: figs/2d_3d_wd_dep.png used on input line 11.
+Package pdftex.def Info: figs/2d_3d_wd_dep.png used on input line 164.
 (pdftex.def)             Requested size: 227.62779pt x 128.03963pt.
-)
+) (./sec005.tex) (./main.bbl
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-(./sec005.tex) (./main.bbl
-
-LaTeX Warning: Reference `LastBibItem' on page 2 undefined on input line 1.
+LaTeX Warning: Reference `LastBibItem' on page 4 undefined on input line 1.
 
 
 Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
-) [2 <./figs/bias_pn_junction.png> <./figs/schokley_current_reverse_forward.png
->] [3 <./figs/high_low_injection.png> <./figs/recomb.png> <./figs/2d_3d.png> <.
-/figs/2d_3d_wd_dep.png>] (./main.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[4 <./figs/2d_3d.png> <./figs/2d_3d_wd_dep.png>] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -2240,31 +2295,32 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26036 strings out of 493109
- 537692 string characters out of 6138587
- 550333 words of memory out of 5000000
- 29078 multiletter control sequences out of 15000+600000
+ 26024 strings out of 493109
+ 537358 string characters out of 6138587
+ 558385 words of memory out of 5000000
+ 29075 multiletter control sequences out of 15000+600000
  21615 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,69p,10467b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,69p,10391b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2014/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2014/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti9.pfb>
-Output written on main.pdf (3 pages, 350791 bytes).
+ts/cm/cmmi5.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on main.pdf (4 pages, 368383 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
